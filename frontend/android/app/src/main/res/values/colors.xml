@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调：深蓝灰（与 Tailwind slate-800 一致） -->
+    <color name="colorPrimary">#1E293B</color>
+    <color name="colorPrimaryDark">#0F172A</color>
+    <color name="colorAccent">#3B82F6</color>
+
+    <!-- Splash Screen 背景色 -->
+    <color name="splashBackground">#1E293B</color>
+</resources>
